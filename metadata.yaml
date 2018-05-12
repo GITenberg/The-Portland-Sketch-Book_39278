@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '3257'
     url: http://www.gutenberg.org/2009/agents/3257
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39278#The-Portland-Sketch-Book
 gutenberg_issued: '2012-03-27'
 gutenberg_type: Text
 identifiers:
