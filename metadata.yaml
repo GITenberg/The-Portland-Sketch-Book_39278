@@ -1,0 +1,51 @@
+_repo: The-Portland-Sketch-Book_39278
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Stephens, Ann S. (Ann Sophia)
+    aliases:
+    - Slick, Jonathan
+    - Stephens, Ann Sophia Winterbotham
+    birthdate: 1810
+    deathdate: 1886
+    gutenberg_agent_id: '3257'
+    url: http://www.gutenberg.org/2009/agents/3257
+description: ''
+gutenberg_issued: '2012-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39278'
+  lccn: '13033704'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American literature -- Maine -- Portland'
+tableOfContents: 'Diamond Cove / S. B. Beckett -- Our own country / James Brooks --
+  The cruise of the Dart / S. B. Beckett -- To M—, on her birth-day / William Cutter
+  -- Religious obligation in rulers / John W. Chickering -- A New-England winter scene
+  / William Cutter -- Loch Katrine / N. H. Carter -- Worship / Asa Cummings -- The
+  valley of silence / William Cutter -- Descriptions of the Divine Being / Gershom
+  F. Cox -- The French Revolution / Charles S. Daveis -- Mrs. Sykes: from the papers
+  of Dr. Tonic, recently brought to light / Nathaniel Deering -- Old and young / James
+  Furbish -- Autumnal days / P. H. Greenleaf -- The plague / Charles P. Ilsley --
+  ''Oh, this is not my home'' / Charles P. Ilsley -- The village prize / Joseph Ingraham
+  -- Indifference to study / George W. Light -- The village of Auteuil / Henry W.
+  Longfellow -- The past and the new year / Prentiss Mellen -- The ruin of a night
+  / Grenville Mellen -- Courtship / William L. McClintock -- Venetian moonlight /
+  Frederick Mellen -- Ballooning / I. McLellan, Jr. -- Ode / Grenville Mellen -- The
+  boy''s mountain song / I. McLellan, Jr. -- The unchangeable Jew / John Neal -- A
+  war-song of the revolution / John Neal -- Musings on music / James F. Otis -- Sin
+  estimated by the light of heaven / Edward Payson -- The way of the soul / L. S.
+  P. -- Fragments of an address on music / Edward Payson -- The blush / Mrs. Elizabeth
+  Smith -- The widowed bride / Mrs. Ann S. Stephens -- Jack Downing''s visit to Portland
+  / Seba Smith -- The deserted wife / Mrs. Ann S. Stephens -- Portland as it was /
+  William Willis -- The Cherokee''s threat / N. P. Willis -- Grecian and Roman eloquence
+  / Ashur Ware -- Religion / Jason Whitman.'
+title: The Portland Sketch Book
+url: http://www.gutenberg.org/ebooks/39278
